@@ -8,7 +8,7 @@
 - Add multiple transactions to each account.
 - Edit and Delete transactions.
 
-##Instructions:
+## Instructions:
 
 INSTRUCTIONS FOR SERVER:
 Step-1: Open the terminal and select the "SERVER" folder.
@@ -21,7 +21,7 @@ Step-1: Open the terminal and select the "CLIENT" folder.
 Step-2: Run **"npm install"** to install all the dependencies.
 Step-3: Run **"npm start"** to start the react app.
 
-##Deployment
+## Deployment
 
 I've deployed the backend in render.com and frontend in netlify.com
 
@@ -30,5 +30,5 @@ You can view the live demo here: https://budget-tracker-full-stack.netlify.app/
 **Note:** I've using free plan for backend. So there might be latency in requests. 
 Follow the instructions given above and deploy in localhost for better experience.
 
-###Thanks for viewing my project. Feel free to visit my other [projects.](https://github.com/suryad6201?tab=repositories)
+### Thanks for viewing my project. Feel free to visit my other [projects.](https://github.com/suryad6201?tab=repositories)
 
